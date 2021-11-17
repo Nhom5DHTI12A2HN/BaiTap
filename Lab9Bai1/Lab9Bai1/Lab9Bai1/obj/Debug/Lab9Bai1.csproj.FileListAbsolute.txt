@@ -1,0 +1,32 @@
+C:\Users\caodi\source\repos\Lab9Bai1\Lab9Bai1\bin\Debug\Lab9Bai1.exe.config
+C:\Users\caodi\source\repos\Lab9Bai1\Lab9Bai1\bin\Debug\Lab9Bai1.exe
+C:\Users\caodi\source\repos\Lab9Bai1\Lab9Bai1\bin\Debug\Lab9Bai1.pdb
+C:\Users\caodi\source\repos\Lab9Bai1\Lab9Bai1\obj\Debug\Lab9Bai1.csprojAssemblyReference.cache
+C:\Users\caodi\source\repos\Lab9Bai1\Lab9Bai1\obj\Debug\Lab9Bai1.Properties.Resources.resources
+C:\Users\caodi\source\repos\Lab9Bai1\Lab9Bai1\obj\Debug\Lab9Bai1.csproj.GenerateResource.cache
+C:\Users\caodi\source\repos\Lab9Bai1\Lab9Bai1\obj\Debug\Lab9Bai1.csproj.CoreCompileInputs.cache
+C:\Users\caodi\source\repos\Lab9Bai1\Lab9Bai1\obj\Debug\Lab9Bai1.exe
+C:\Users\caodi\source\repos\Lab9Bai1\Lab9Bai1\obj\Debug\Lab9Bai1.pdb
+C:\Users\caodi\source\repos\Lab9Bai1\Lab9Bai1\obj\Debug\Lab9Bai1.FormBanHang.resources
+C:\Users\caodi\source\repos\Lab9Bai1\Lab9Bai1\obj\Debug\Lab9Bai1.FormKhachHang.resources
+C:\Users\caodi\source\repos\Lab9Bai1\Lab9Bai1\obj\Debug\Lab9Bai1.FormMatHang.resources
+C:\Users\caodi\source\repos\Lab9Bai1\Lab9Bai1\obj\Debug\Lab9Bai1.FormMenu.resources
+C:\Users\caodi\source\repos\Lab9Bai1\Lab9Bai1\obj\Debug\Lab9Bai1.FormTimKiemKhachHang.resources
+C:\Users\caodi\source\repos\Lab9Bai1\Lab9Bai1\obj\Debug\Lab9Bai1.FormTimKiemMatHang.resources
+C:\Users\caodi\source\repos\Lab9Bai1\Lab9Bai1\obj\Debug\Lab9Bai1.FormTimKiemBanHang.resources
+C:\Users\Viet Nguyen\Downloads\Lab9Bai1\Lab9Bai1\Lab9Bai1\bin\Debug\Lab9Bai1.exe.config
+C:\Users\Viet Nguyen\Downloads\Lab9Bai1\Lab9Bai1\Lab9Bai1\bin\Debug\Lab9Bai1.exe
+C:\Users\Viet Nguyen\Downloads\Lab9Bai1\Lab9Bai1\Lab9Bai1\bin\Debug\Lab9Bai1.pdb
+C:\Users\Viet Nguyen\Downloads\Lab9Bai1\Lab9Bai1\Lab9Bai1\obj\Debug\Lab9Bai1.csprojAssemblyReference.cache
+C:\Users\Viet Nguyen\Downloads\Lab9Bai1\Lab9Bai1\Lab9Bai1\obj\Debug\Lab9Bai1.FormBanHang.resources
+C:\Users\Viet Nguyen\Downloads\Lab9Bai1\Lab9Bai1\Lab9Bai1\obj\Debug\Lab9Bai1.FormKhachHang.resources
+C:\Users\Viet Nguyen\Downloads\Lab9Bai1\Lab9Bai1\Lab9Bai1\obj\Debug\Lab9Bai1.FormMatHang.resources
+C:\Users\Viet Nguyen\Downloads\Lab9Bai1\Lab9Bai1\Lab9Bai1\obj\Debug\Lab9Bai1.FormMenu.resources
+C:\Users\Viet Nguyen\Downloads\Lab9Bai1\Lab9Bai1\Lab9Bai1\obj\Debug\Lab9Bai1.FormTimKiemBanHang.resources
+C:\Users\Viet Nguyen\Downloads\Lab9Bai1\Lab9Bai1\Lab9Bai1\obj\Debug\Lab9Bai1.FormTimKiemKhachHang.resources
+C:\Users\Viet Nguyen\Downloads\Lab9Bai1\Lab9Bai1\Lab9Bai1\obj\Debug\Lab9Bai1.FormTimKiemMatHang.resources
+C:\Users\Viet Nguyen\Downloads\Lab9Bai1\Lab9Bai1\Lab9Bai1\obj\Debug\Lab9Bai1.Properties.Resources.resources
+C:\Users\Viet Nguyen\Downloads\Lab9Bai1\Lab9Bai1\Lab9Bai1\obj\Debug\Lab9Bai1.csproj.GenerateResource.cache
+C:\Users\Viet Nguyen\Downloads\Lab9Bai1\Lab9Bai1\Lab9Bai1\obj\Debug\Lab9Bai1.csproj.CoreCompileInputs.cache
+C:\Users\Viet Nguyen\Downloads\Lab9Bai1\Lab9Bai1\Lab9Bai1\obj\Debug\Lab9Bai1.exe
+C:\Users\Viet Nguyen\Downloads\Lab9Bai1\Lab9Bai1\Lab9Bai1\obj\Debug\Lab9Bai1.pdb
